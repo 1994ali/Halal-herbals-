@@ -9,9 +9,7 @@ Halal Herbals is a website dedicated to promoting pure, natural, and certified h
 - **Disease and symptoms treatment 
 ### Contact Information
 For more information or to place an order, feel free to contact us via WhatsApp: [Chat on WhatsApp](https://wa.me/256761160708)
-
----
-
+or email: aligerald1994@gmail.com 
 ### How to Use This Repository
 - This repository hosts the landing page for Halal Herbals.
 - To view the site, navigate to the GitHub Pages link provided in the repository settings.
