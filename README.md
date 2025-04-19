@@ -6,7 +6,7 @@ Halal Herbals is a website dedicated to promoting pure, natural, and certified h
 ### Products
 - **Herbal Tea**: A blend of natural herbs to boost immunity and help you relax.
 - **Natural Skin Oil**: Halal-certified skin oil made from 100% natural ingredients to nourish and moisturize your skin.
-
+- **Disease and symptoms treatment 
 ### Contact Information
 For more information or to place an order, feel free to contact us via WhatsApp: [Chat on WhatsApp](https://wa.me/256761160708)
 
